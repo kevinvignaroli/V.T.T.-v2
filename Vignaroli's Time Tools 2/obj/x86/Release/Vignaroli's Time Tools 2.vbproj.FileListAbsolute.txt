@@ -1,0 +1,18 @@
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\bin\Release\Vignaroli's Time Tools 2.exe
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\bin\Release\Vignaroli's Time Tools 2.pdb
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\bin\Release\Vignaroli's Time Tools 2.xml
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.AboutBox.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.FormHome.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.FormPreferences.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.FormStopwatch.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.FormTimer.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.Resources.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.vbproj.GenerateResource.Cache
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.exe
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.xml
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.pdb
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli_s_Time_Tools_2.SplashScreen.resources
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\bin\Release\Vignaroli's Time Tools 2.exe.manifest
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\bin\Release\Vignaroli's Time Tools 2.application
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.exe.manifest
+C:\Users\kevin\documents\visual studio 2010\Projects\Vignaroli's Time Tools 2\Vignaroli's Time Tools 2\obj\x86\Release\Vignaroli's Time Tools 2.application
