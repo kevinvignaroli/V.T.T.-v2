@@ -96,6 +96,7 @@
                 secondariesToBlackHome()
             End If
         End If
+        Return 0
     End Function
     Function secondariesToBlackHome()
         FormPreferences.GroupBoxCustomization.ForeColor = Color.Black
@@ -108,6 +109,7 @@
         FormStopwatch.Label1.ForeColor = Color.Black
         FormStopwatch.Label2.ForeColor = Color.Black
         FormStopwatch.Label3.ForeColor = Color.Black
+        Return 0
     End Function
     Function secondariesToWhiteHome()
         FormPreferences.GroupBoxCustomization.ForeColor = Color.White
@@ -125,5 +127,6 @@
         FormStopwatch.Label1.ForeColor = Color.White
         FormStopwatch.Label2.ForeColor = Color.White
         FormStopwatch.Label3.ForeColor = Color.White
+        Return 0
     End Function
 End Class
