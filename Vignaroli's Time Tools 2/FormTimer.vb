@@ -11,6 +11,7 @@
             ss = ComboBoxSeconds.Text Mod 60
             ComboBoxSeconds.Text = ss
         End While
+        Return 0
     End Function
     Function tidyMinutes()
         While ComboBoxMinutes.Text > 59
@@ -19,6 +20,7 @@
             mm = ComboBoxMinutes.Text Mod 60
             ComboBoxMinutes.Text = mm
         End While
+        Return 0
     End Function
     Private Sub ButtonStart_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonStart.Click
         'Cases and possibility
