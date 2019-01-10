@@ -171,12 +171,12 @@
             If ComboBoxSeconds.Text = 0 Then
                 If ComboBoxMinutes.Text > 0 Then
                     ComboBoxMinutes.Text -= 1
-                    ComboBoxSeconds.Text = 60
+                    ComboBoxSeconds.Text = 59
                 ElseIf ComboBoxMinutes.Text = 0 Then
                     If ComboBoxHours.Text > 0 Then
                         ComboBoxHours.Text -= 1
-                        ComboBoxMinutes.Text = 60
-                        ComboBoxSeconds.Text = 60
+                        ComboBoxMinutes.Text = 59
+                        ComboBoxSeconds.Text = 59
                     Else
                         TimerTimer.Enabled = False
                         MsgBox("Time is finished", MsgBoxStyle.Information, "End")
