@@ -5,6 +5,7 @@
         FormHome.BackColor = Color.Black
         FormTimer.BackColor = Color.Black
         FormStopwatch.BackColor = Color.Black
+        Return 0
     End Function
     Function defaultChange()
         ListBoxColors.Enabled = False
@@ -12,6 +13,7 @@
         FormHome.BackColor = Color.WhiteSmoke
         FormTimer.BackColor = Color.WhiteSmoke
         FormStopwatch.BackColor = Color.WhiteSmoke
+        Return 0
     End Function
     Function colorChange()
         ListBoxColors.Enabled = True
@@ -70,6 +72,7 @@
             FormTimer.BackColor = Color.Yellow
             secondariesToBlack()
         End If
+        Return 0
     End Function
     Function secondariesToBlack()
         Me.GroupBoxCustomization.ForeColor = Color.Black
@@ -82,6 +85,7 @@
         FormStopwatch.Label1.ForeColor = Color.Black
         FormStopwatch.Label2.ForeColor = Color.Black
         FormStopwatch.Label3.ForeColor = Color.Black
+        Return 0
     End Function
     Function secondariesToWhite()
         Me.GroupBoxCustomization.ForeColor = Color.White
@@ -99,6 +103,7 @@
         FormStopwatch.Label1.ForeColor = Color.White
         FormStopwatch.Label2.ForeColor = Color.White
         FormStopwatch.Label3.ForeColor = Color.White
+        Return 0
     End Function
     Private Sub RadioButtonDefault_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButtonDefault.CheckedChanged
         If RadioButtonDark.Checked = True Then
